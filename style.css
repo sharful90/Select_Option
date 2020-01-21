@@ -53,78 +53,100 @@ select#District_syl {
     justify-content: center;
     display: grid;
 }
-.countries h3{
+
+.countries h3 {
     color: #009432;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_bd {
-    display:none;
+    display: none;
 }
-.states_for_bd h3{
+
+.states_for_bd h3 {
     color: #2980b9;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_Dhaka {
-    display:none;
+    display: none;
     margin-top: 15px;
 }
-.states_for_Dhaka h3{
+
+.states_for_Dhaka h3 {
     color: #16a085;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_Mymensingh {
-    display:none;
+    display: none;
     margin-top: 15px;
 }
-.states_for_Mymensingh h3{
+
+.states_for_Mymensingh h3 {
     color: #16a085;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_Chittagong {
-    display:none;
+    display: none;
     margin-top: 15px;
 }
-.states_for_Chittagong h3{
+
+.states_for_Chittagong h3 {
     color: #d35400;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_Khulna {
-    display:none;
+    display: none;
     margin-top: 15px;
 }
-.states_for_Khulna h3{
+
+.states_for_Khulna h3 {
     color: #d35400;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_Barisal {
-    display:none;
+    display: none;
     margin-top: 15px;
 }
-.states_for_Barisal h3{
+
+.states_for_Barisal h3 {
     color: #c0392b;
     font-family: arial;
     font-size: 16px;
     text-align: center;
 }
+
 .states_for_sylhet {
-    display:none;
+    display: none;
     margin-top: 15px;
 }
-.states_for_sylhet h3{
+
+.states_for_sylhet h3 {
     color: #c0392b;
     font-family: arial;
     font-size: 16px;
     text-align: center;
+}
+
+.text h3 {
+    text-align: center;
+    color: red;
+    font-family: arial;
+    margin-top: 18px;
 }
